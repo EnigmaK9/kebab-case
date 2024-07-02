@@ -24,6 +24,6 @@ def rename_files_in_directory(directory):
             print(f'Renamed: {filename} -> {new_filename}')
 
 # Especifica el directorio que contiene los archivos
-directory_path = '/home/enigma/repos/rosalia/video-scrapper/tandas-de-tango'
+directory_path = '/home/enigma/repos/rosalia/video-scrapper/vocals-only'
 rename_files_in_directory(directory_path)
 
